@@ -1,0 +1,32 @@
+body{
+    background: url(https://images.hdqwalls.com/wallpapers/space-digital-4k-zr.jpg);
+    background-size: 150%;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin: 60px;
+    font-size: 50px;
+    border-radius: 10px ;
+}
+label{
+    color: white;
+    margin-left: 40%;
+  
+}
+button{
+    margin-left: 40%;
+}
+p{
+    color: white;
+    margin-left: 40%;
+}
+input{
+    font-size: 15px;
+    text-align: center;
+}
+.neymar{
+    background-color: rgba(0, 0, 0, 0.74);
+    border-radius: 50px;
+    margin-top: 10%;
+}
